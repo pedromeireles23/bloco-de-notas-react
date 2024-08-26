@@ -1,0 +1,1 @@
+Este projeto em React é um bloco de notas desenvolvido para fins de estudo, destacando o uso dos conceitos de useState, props, além da aplicação dos métodos map e filter.
